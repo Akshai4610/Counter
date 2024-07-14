@@ -1,3 +1,5 @@
+import { useState } from "react";
+
 import { log } from "../../log";
 
 export default function ConfigureCounter({onSet}){
